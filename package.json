@@ -1,0 +1,22 @@
+{
+    "name": "atom-dark-syntax",
+    "displayName": "atom-dark-syntax",
+    "description": "'atom-dark' syntax theme for vscode",
+    "version": "0.0.1",
+    "publisher": "KamiSama",
+    "engines": {
+        "vscode": "^1.10.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "atom-dark-syntax",
+                "uiTheme": "vs-dark",
+                "path": "./themes/atom-dark.tmTheme"
+            }
+        ]
+    }
+}
