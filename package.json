@@ -1,7 +1,7 @@
 {
     "name": "atom-dark-syntax",
     "displayName": "atom-dark-syntax",
-    "description": "'atom-dark' syntax theme for vscode",
+    "description": "'atom-dark' syntax theme extension for vscode",
     "version": "0.0.1",
     "publisher": "KamiSama",
     "engines": {

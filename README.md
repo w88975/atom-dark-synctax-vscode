@@ -1,13 +1,19 @@
-# README
-## This is the README for your extension "atom-dark-syntax"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+# One Dark Theme
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+One dark theme for Visual Studio Code, based on Atom's One Dark
 
-**Enjoy!**
+Star on Github: [![GitHub stars](https://img.shields.io/github/stars/w88975/atom-dark-synctax-vscode.svg?style=social&label=Star&maxAge=2592000)](https://github.com/w88975/atom-dark-synctax-vscode)
+
+
+## Install
+
+press `ctl/command + shift + p` to launch the command palette then run
+```
+ext install atom-dark-syntax
+```
+
+## Changelog
+
+`no changelog`
+
